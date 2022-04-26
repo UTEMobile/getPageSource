@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetSource</string>
+    <string name="title">Enter URL:</string>
+</resources>
